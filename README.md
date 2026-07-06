@@ -71,8 +71,7 @@ This project automates the complete software delivery lifecycle by implementing 
 - Kubernetes Deployment
 
 🔗 Repository:
-https://github.com/deva0605/End-to-End-Production-DevSecOps-Pipeline
-
+https://github.com/DeveshBanote/End-to-End-Production-DevSecOps-Pipeline.git
 ---
 
 # Production Monitoring & Alerting Stack
@@ -91,7 +90,7 @@ This project implements a production-style monitoring and alerting system for Li
 - PromQL
 
 🔗 Repository:
-https://github.com/deva0605/Email-Alerts-with-Prometheus-Grafana
+https://github.com/DeveshBanote/Email-Alerts-with-Prometheus-Grafana
 
 ---
 
@@ -109,17 +108,16 @@ This project demonstrates Infrastructure as Code (IaC) by provisioning and manag
 - Reusable Configuration
 
 🔗 Repository:
-https://github.com/deva0605/Terraform-project-
-
+https://github.com/DeveshBanote/Terraform-project-.git
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deva0605&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeveshBanote&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva0605&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshBanote&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -129,7 +127,7 @@ https://github.com/deva0605/Terraform-project-
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=deva0605&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DeveshBanote&theme=github-dark&hide_border=true"/>
 
 </p>
 
